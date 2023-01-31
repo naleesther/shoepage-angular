@@ -1,0 +1,112 @@
+.card1{
+    stroke-opacity: inherit;
+}
+.example-card{
+    margin-left: 100px;
+}
+
+.example-card{
+    background-color: #112a3d;
+    /* background-image:url("../../assets/image/back-shoe-removebg-preview.png") ;  */
+    background-repeat:repeat; 
+    background-size: cover;
+    margin-left: 130px; 
+    margin-top: 100px;
+    height: 600px;
+    max-width: 1300px;
+}
+.topnav{
+    margin-left: 300px;
+    font-size: 190px;
+    margin-top: -3.5%;
+}
+
+.topnav a {
+    float: left;
+    color: #fffefe;
+    text-align: center;
+    /* padding: 14px 16px; */
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 15%;
+  }
+
+
+mat-card-title{
+    color: #ffff;
+    font-size: 40px;
+
+}
+h1{
+  color: white;
+  margin-left: 26%;
+}
+.card1 {
+    background-color:#68eaeb;
+    max-width: 200px;
+    height: 20vh;
+    margin-top: 100px;
+    margin-left: 75%;
+}
+ /* .image img{
+    margin-left: 70px;
+    margin-top: 35px;
+    width: 120px;
+    height: 100px; */
+
+/* } */
+.card-overlay {
+    background: #0b030380;
+  }
+  .card2{
+    background-color: #f7c29b;
+    max-width: 200px;
+    height: 20vh;
+    margin-top: -15.5%;
+    margin-left: 53%;
+    
+
+  }
+  .card3{
+    margin-top: -15%;   
+    background-color: #9441cb;
+    max-width: 200px;
+    height: 20vh;
+    margin-left: 30%;
+    
+
+  }
+  .card4{
+    background-color: #7be498;
+    max-width: 200px;
+    height: 20vh;
+    margin-top: -15%;   
+    margin-left: 8%;
+
+
+}
+.card1 img{
+  width: 160px;
+  margin-top: 13%;
+  margin-left: 20px;
+  height: 160px;
+  /* background-image: cover; */
+
+}.card2 img{
+  width: 158px;
+  height: 158px;
+  margin-left: 20px;
+
+}
+.card3 img{
+  width: 160px;
+  height: 160px;
+
+}
+.card4 img{
+  width: 164px;
+  height: 164px;
+  margin-left:18px ;
+}
+
+

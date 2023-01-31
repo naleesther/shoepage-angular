@@ -1,0 +1,155 @@
+.example{
+    background-color: #112a3d;
+    height: 900px;
+    max-width: 1300px;
+    margin-left: 400px;
+}
+.topnav {
+    margin-left: 40%;
+    font-size:18px;
+    margin-top: 3%;
+}
+.home button{
+    width: 95px;
+    height: 50px;
+    background-color: #112A3D;
+    border-radius: 13px;
+    color: white;
+}
+.topnav a {
+    float: left;
+    color: #fffefe;
+    text-align: center;
+    /* padding: 14px 16px; */
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 15%;
+  }
+  .cardA{
+    background-color: white;
+    width: 1200px;
+    height: 800px;
+    margin-left: 46px;
+    margin-top: 15px;
+
+  }
+.imageA{
+    background-color: #8ce290;
+    width: 25%;
+    height: 30%;
+    margin-left: 20px;
+    border-radius: 15px;
+    
+}
+.image2 img{
+    margin-left: 9%;
+    width: 80%;
+    height: 78%;
+    margin-bottom: 7%;
+}  
+.imageA h3{
+    color: #fd7584;
+    margin-top:-18px;
+}
+.imageA p{
+margin-top: -5%;
+}
+.cardB{
+    background-color:#F5E6FF ;
+    width: 25%;
+    height: 30%;
+    margin-left: 400px;
+    border-radius: 15px;
+    margin-top: -240px;
+    
+}
+.one{
+    margin-top: -25px;
+
+}
+.two{
+    margin-top: -8%;
+}
+.two h3{
+    margin-top: -6.5%;
+    color: #fd7584;
+
+}
+.two p{
+    margin-top: -5%;
+}
+.image1 img{
+    margin-left: 9%;
+    width: 80%;
+    height: 78%;
+    margin-bottom: 7%;
+
+}
+.cardC{
+    background-color: #F7C29B;
+    width: 25%;
+    height: 30%;
+    margin-left: 800px;
+    border-radius: 15px;
+    margin-top: -240px;
+
+}
+.image3 img{
+    margin-left: 9%;
+    width: 80%;
+    height: 95%;
+    margin-top: 30px;
+
+}
+.three{
+    margin-top: 30%;
+
+}
+.three h3{
+    color: #fd7584;
+    margin-top: -6.5%;
+
+}
+.three p{
+    margin-top: -5%;
+
+
+}
+
+.cardD{
+    background-color: #87F9EF;
+    width: 25%;
+    height: 30%;
+    margin-left: 20px;
+    border-radius: 15px;
+    margin-top: 11%;
+
+}
+.four{
+    margin-top: -5%;
+
+}
+.four h3{
+    color:#fd7584;
+    margin-top: -7%;
+
+}
+.four p{
+    margin-top: -5%;
+
+}
+.image4 img{
+    margin-left: 9%;
+    width: 80%;
+    height: 78%;
+
+}
+.btn{
+    width: 30%;
+    height: 10%;
+    margin-left: 45%;
+    margin-top: -10%;
+    border-radius: 13px;
+    background-color: black;
+    color: rgb(231, 141, 4);
+}
